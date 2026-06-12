@@ -223,3 +223,31 @@ Open the Power BI (.pbix) file and refresh the data source.
 ## Conclusion
 
 This project successfully demonstrates an end-to-end data analytics solution for the mutual fund industry. It combines data engineering, analytics, visualization, and business intelligence to provide actionable insights for investors and fund managers.
+
+## Additional Bonus Implementations
+
+### Automated ETL Scheduling (B1)
+
+Implemented an automated ETL pipeline to fetch daily NAV data from mfapi.in. The process is scheduled to execute every weekday at 8:00 PM and stores the latest NAV data for analysis.
+
+### Streamlit Analytics Dashboard (B2)
+
+Developed a Streamlit-based web application as an alternative to Power BI featuring:
+
+* Industry Overview Dashboard
+* Fund Explorer
+* Performance Analytics
+* Risk Analytics
+* Recommendation Engine
+
+### Monte Carlo NAV Forecasting (B3)
+
+Built a Monte Carlo simulation model to project mutual fund NAV growth over a five-year period using historical return distributions and uncertainty bands.
+
+### Markowitz Portfolio Optimization (B4)
+
+Implemented Modern Portfolio Theory to generate the Efficient Frontier and identify the optimal portfolio allocation based on maximum Sharpe Ratio.
+
+### Automated HTML Email Reporting (B5)
+
+Developed an automated reporting system that generates weekly mutual fund performance summaries in HTML format and sends them via email using SMTP integration.
