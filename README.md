@@ -6,32 +6,41 @@ Developed as part of the Bluestock Fintech Capstone Project.
 
 ## Project Structure
 
+```text
 bluestock_mf_capstone/
+│
 ├── data/
-│   ├── raw/           ← original downloaded files
-│   ├── processed/     ← cleaned, merged CSVs
-│   └── db/            ← bluestock_mf.db (SQLite)
+│   ├── raw/
+│   ├── processed/
+│   └── db/
+│       └── bluestock_mf.db
+│
 ├── notebooks/
 │   ├── 01_data_ingestion.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_eda_analysis.ipynb
 │   ├── 04_performance_analytics.ipynb
 │   └── 05_advanced_analytics.ipynb
+│
 ├── scripts/
 │   ├── etl_pipeline.py
 │   ├── live_nav_fetch.py
 │   ├── compute_metrics.py
 │   └── recommender.py
+│
 ├── sql/
 │   ├── schema.sql
 │   └── queries.sql
+│
 ├── dashboard/
 │   └── bluestock_mf.pbix
+│
 ├── reports/
 │   ├── Final_Report.pdf
 │   └── Presentation.pptx
+│
 └── README.md
-
+```
 ## Project Overview
 
 The objective of this project is to build an end-to-end analytics platform for the Indian Mutual Fund industry.
