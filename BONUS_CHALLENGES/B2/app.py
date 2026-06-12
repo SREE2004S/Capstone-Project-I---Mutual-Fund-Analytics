@@ -2,7 +2,8 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import plotly.express as px
-
+##cd /d D:\bluestock_mf_capstone\BONUS_CHALLENGES\B2
+##python -m streamlit run app.py
 # Database Connection
 conn = sqlite3.connect(
     r"D:\bluestock_mf_capstone\data\db\bluestock_mf.db"

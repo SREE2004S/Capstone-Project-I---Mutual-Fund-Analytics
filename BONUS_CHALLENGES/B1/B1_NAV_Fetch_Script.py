@@ -15,7 +15,10 @@ if response.status_code == 200:
 
     nav_df["fetch_date"] = datetime.now()
 
-    nav_df.to_csv("latest_nav.csv", index=False)
+    nav_df.to_csv(
+    r"D:\bluestock_mf_capstone\BONUS_CHALLENGES\B1\Schedule_ETL_atest_nav.csv",
+    index=False
+)
 
     print("NAV Updated Successfully")
 else:
