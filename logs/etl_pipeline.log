@@ -1,0 +1,4 @@
+2026-06-11 14:13:13,406 | INFO | ETL Pipeline Started
+2026-06-11 14:13:13,490 | INFO | All NAV AMFI codes exist in fund master
+2026-06-11 14:13:13,746 | INFO | Data quality report generated successfully
+2026-06-11 14:13:14,600 | INFO | SQLite load completed

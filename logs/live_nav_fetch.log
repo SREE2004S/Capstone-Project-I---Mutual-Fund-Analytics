@@ -1,0 +1,12 @@
+2026-06-11 14:19:08,800 | INFO | Live NAV Fetch Started
+2026-06-11 14:19:08,800 | INFO | Fetching data for SBI_Bluechip
+2026-06-11 14:19:17,598 | INFO | SBI_Bluechip saved successfully
+2026-06-11 14:19:17,598 | INFO | Fetching data for ICICI_Bluechip
+2026-06-11 14:19:18,155 | INFO | ICICI_Bluechip saved successfully
+2026-06-11 14:19:18,155 | INFO | Fetching data for Nippon_Large_Cap
+2026-06-11 14:19:18,723 | INFO | Nippon_Large_Cap saved successfully
+2026-06-11 14:19:18,723 | INFO | Fetching data for Axis_Bluechip
+2026-06-11 14:19:19,248 | INFO | Axis_Bluechip saved successfully
+2026-06-11 14:19:19,248 | INFO | Fetching data for Kotak_Bluechip
+2026-06-11 14:19:19,761 | INFO | Kotak_Bluechip saved successfully
+2026-06-11 14:19:19,779 | INFO | Live NAV Fetch Completed Successfully

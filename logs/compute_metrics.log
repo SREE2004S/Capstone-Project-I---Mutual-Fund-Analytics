@@ -1,0 +1,34 @@
+2026-06-11 14:32:57,713 | INFO | Performance Analytics Started
+2026-06-11 14:32:57,795 | INFO | Datasets loaded successfully
+2026-06-11 14:35:05,754 | INFO | Performance Analytics Started
+2026-06-11 14:35:05,806 | INFO | Datasets loaded successfully
+2026-06-11 14:35:05,822 | INFO | Daily returns calculated
+2026-06-11 14:35:05,822 | INFO | Metric functions created
+2026-06-11 14:35:05,911 | INFO | Performance metrics calculated
+2026-06-11 14:35:05,911 | INFO | fund_metrics.csv created
+2026-06-11 14:35:05,911 | INFO | Merged with performance dataset
+2026-06-11 14:36:53,548 | INFO | Performance Analytics Started
+2026-06-11 14:36:53,600 | INFO | Datasets loaded successfully
+2026-06-11 14:36:53,608 | INFO | Daily returns calculated
+2026-06-11 14:36:53,608 | INFO | Metric functions created
+2026-06-11 14:36:53,697 | INFO | Performance metrics calculated
+2026-06-11 14:36:53,697 | INFO | fund_metrics.csv created
+2026-06-11 14:36:53,697 | INFO | Merged with performance dataset
+2026-06-11 14:36:53,709 | INFO | Fund scorecard generated
+2026-06-11 14:36:53,709 | INFO | alpha_beta.csv created
+2026-06-11 14:36:53,714 | INFO | fund_scorecard.csv created
+2026-06-11 14:38:11,397 | INFO | Performance Analytics Started
+2026-06-11 14:38:11,428 | INFO | Datasets loaded successfully
+2026-06-11 14:38:11,428 | INFO | Daily returns calculated
+2026-06-11 14:38:11,428 | INFO | Metric functions created
+2026-06-11 14:38:11,537 | INFO | Performance metrics calculated
+2026-06-11 14:38:11,537 | INFO | fund_metrics.csv created
+2026-06-11 14:38:11,542 | INFO | Merged with performance dataset
+2026-06-11 14:38:11,546 | INFO | Fund scorecard generated
+2026-06-11 14:38:11,547 | INFO | alpha_beta.csv created
+2026-06-11 14:38:11,549 | INFO | fund_scorecard.csv created
+2026-06-11 14:38:11,558 | INFO | NIFTY100 benchmark returns calculated
+2026-06-11 14:38:11,658 | INFO | Tracking error calculated
+2026-06-11 14:38:11,658 | INFO | Updated scorecard saved
+2026-06-11 14:38:12,932 | INFO | Benchmark comparison chart saved
+2026-06-11 14:38:12,936 | INFO | Performance Analytics Completed Successfully

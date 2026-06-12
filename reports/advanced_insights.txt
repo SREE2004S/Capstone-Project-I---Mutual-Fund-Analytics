@@ -1,0 +1,5 @@
+Funds with highest VaR show greater downside risk.
+High Sharpe funds consistently rank higher in recommendations.
+Recent investor cohorts contribute the largest investment amounts.
+At-risk SIP investors exhibit average payment gaps above 35 days.
+Funds with high HHI indicate concentrated portfolios.
